@@ -1,2 +1,3 @@
-# CE145
-Codename Eagle's version 1.45
+# Codename Eagle v1.45
+
+Community new patch version
